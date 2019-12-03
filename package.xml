@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>quadprogpp</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The quadprogpp package: A C++ library for Quadratic Programming which implements the Goldfarb-Idnani active-set dual method.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->

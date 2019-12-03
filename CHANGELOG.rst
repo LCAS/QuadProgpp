@@ -2,8 +2,8 @@
 Changelog for package quadprogpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2019-12-03)
+------------------
 * made comileable via catkin
 * Merge pull request `#12 <https://github.com/LCAS/QuadProgpp/issues/12>`_ from tiramisueanne/master
   Fix incorrect comparison in Array.hh.
