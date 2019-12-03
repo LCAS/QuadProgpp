@@ -19,4 +19,4 @@ install(TARGETS quadprog
   LIBRARY DESTINATION lib
   ARCHIVE DESTINATION lib)
 
-install(EXPORT quadprog-targets DESTINATION cmake)
+install(EXPORT quadprog-targets DESTINATION lib/cmake)
